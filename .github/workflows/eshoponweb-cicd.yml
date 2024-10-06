@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-Sayali
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: 74e3b9f1-509d-484a-9bb6-41719f8efa81
   WEBAPP-NAME: eshoponweb-webapp-Sayali
 
 
